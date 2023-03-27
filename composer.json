@@ -1,0 +1,13 @@
+{
+    "name": "javademien/app",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Javademien",
+            "email": "javademien@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
